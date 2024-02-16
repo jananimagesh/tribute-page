@@ -1,0 +1,43 @@
+body{
+    background-color:#8CB9BD;
+    color:black;
+    margin: 0;
+
+}
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    color: #211C6A;
+    margin-top: 1em;
+    text-shadow: 0px 0px 3px rgba(132, 213, 242, 0.7);
+    letter-spacing: 1px;
+
+}
+.imgheading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+figcaption{
+    font-size: 18px;
+    color:purple;
+    letter-spacing: 1px;
+}
+img{
+    border-radius: 8px;
+    box-shadow: 2px 4px 3px rgba(30, 30, 32, 0.7) ;
+}
+li{
+    margin: 2em;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+h2{
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: rgb(240, 46, 46);
+    text-shadow: 0px 0px 3px rgba(224, 86, 82, 0.7);
+}
